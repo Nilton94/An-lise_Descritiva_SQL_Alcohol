@@ -1,6 +1,6 @@
 # Analise_Descritiva_SQL_Alcohol
 ## Objetivo:
-Análise descritiva do consumo de álcool por países usando a plataforma Databricks
+Análise descritiva do consumo de álcool por países usando SQL e a plataforma Databricks
 ## Questões levantadas:
 * Quais os países possuem o maior e o menor índice médio de consumo de álcool
 * Média de consumo geral ao longo dos anos
